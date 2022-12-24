@@ -77,7 +77,7 @@
 ### by Frida Kahlo
 ![by_Frida_Kahlo](jpg/goldfish_by_Frida_Kahlo.jpg)
 
-### by H
+### by H.R. Giger
 ![by_H](jpg/goldfish_by_H.R._Giger.jpg)
 
 ### by Hassan Mossoudy
